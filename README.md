@@ -3,7 +3,7 @@
 This repository contains a Fraud Detection project that utilizes Deep Learning and Self-Organizing Maps (SOM) Neural Networks to identify fraudulent activities in financial transactions. The project focuses on data preprocessing, visualization, and model training using advanced machine learning techniques.
 
 
-# Features 🚀
+### Features 🚀
 
 Deep Learning Approach: Implements SOM, an unsupervised neural network for anomaly detection.
 
