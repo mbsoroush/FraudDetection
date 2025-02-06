@@ -4,6 +4,7 @@ This repository contains a Fraud Detection project that utilizes Deep Learning a
 
 
 Features 🚀
+
 Deep Learning Approach: Implements SOM, an unsupervised neural network for anomaly detection.
 
 Data Processing: Uses Pandas and NumPy for handling transaction data.
